@@ -6,3 +6,5 @@ Data analysis of effects of 3 drugs + placebo over the course of 45 day clinical
 - Pandas
 - Matplotlib
 - Statistics
+
+![screenshot](Capture.JPG)
